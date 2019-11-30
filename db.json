@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Kasia",
+      "lastName": "Słomka",
+      "age": 45
+    },
+    {
+      "id": 2,
+      "firstName": "Piotr",
+      "lastName": "Kowalski",
+      "age": 19
+    },
+    {
+      "id": 3,
+      "firstName": "Lavonne",
+      "lastName": "Schoen",
+      "age": 30
+    },
+    {
+      "id": 4,
+      "firstName": "Scottie",
+      "lastName": "Bogisich",
+      "age": 69
+    }
+  ],
+  "pets": [
+    {
+      "id": 1,
+      "name": "Azor",
+      "age": 2,
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "name": "Tosia",
+      "age": 4,
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "name": "Burek",
+      "age": 1,
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "name": "449786798414b4a7a5ddb3ce66ebe4ef",
+      "age": 1
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "name": "newnameb356e6b2ce13843ebebc8bdb39769142",
+      "age": 26
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "name": "7af24401745ac27d288c90875ddf0d80",
+      "age": 19
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "name": "newname7707424aba990ada6665f85f156481b1",
+      "age": 5
+    }
+  ]
+}
